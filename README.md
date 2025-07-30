@@ -36,7 +36,7 @@ Constructs initial feature representations within the perception space based on 
 ### 🔹 3. Speed-Adaptive Interaction Module
 Integrates scene and agent cues by hierarchically modeling agent-agent and agent-scene interactions, yielding spatio-temporal feature representations enriched with motion and contextual information.
 ### 🔹 4. Multi-Modal Decoder
-Generates **probabilistic, maneuver-conditioned** future trajectories. By modeling multi-modal distributions, it captures the uncertainty and diversity inherent in real-world driving behavior.
+Generates probabilistic, maneuver-conditioned future trajectories. By modeling multi-modal distributions, it captures the uncertainty and diversity inherent in real-world driving behavior.
 
 ---
 
