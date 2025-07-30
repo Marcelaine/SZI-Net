@@ -22,7 +22,7 @@ Extensive experiments conducted on the challenging NGSIM and HighD highway datas
 
 SZI-Net is a cognitively inspired trajectory prediction framework that dynamically adapts perception and interaction modeling based on an agent’s speed and local scene dynamics.
 
-![SZI-Net Framework](./assets/szi_framework.png)
+![SZI-Net Framework](./szi_framework.png)
 > **Figure**: Overall architecture of SZI-Net with four main modules: Agent-Centric Perception Encoding, Scene-Aware Encoding, Speed-Adaptive Interaction, and Multi-Modal Decoding.
 
 
