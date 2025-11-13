@@ -91,7 +91,7 @@ SZI-Net is evaluated on two standard benchmarks: **NGSIM** and **HighD**, across
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/SZI-Net.git
+git clone https://github.com/Marcelaine/SZI-Net.git
 cd SZI-Net
 
 # (Optional) Create a virtual environment
